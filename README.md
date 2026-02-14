@@ -2,7 +2,7 @@
 
 ![Banner Portofolio](https://via.placeholder.com/1000x300?text=Welcome+to+My+Portfolio)
 
-Selamat datang di repositori kode sumber untuk situs web portofolio pribadi saya. Website ini dirancang untuk menampilkan proyek, keahlian, dan pengalaman profesional saya sebagai [Sebutkan Role Anda, misal: Web Developer/UI Designer].
+Selamat datang di repositori kode sumber untuk situs web portofolio pribadi saya. Website ini dirancang untuk menampilkan proyek, keahlian, dan pengalaman profesional saya sebagai Frontend Web Developer
 
 🔗 **Live Demo:** [https://nama-website-anda.com](https://google.com)
 
