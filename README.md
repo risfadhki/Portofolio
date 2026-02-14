@@ -1,4 +1,4 @@
-# Hi there, I'm [Nama Anda]! 👋
+# Hi there, I'm [Faris fadhlullah]! 👋
 
 ![Banner Portofolio](https://via.placeholder.com/1000x300?text=Welcome+to+My+Portfolio)
 
