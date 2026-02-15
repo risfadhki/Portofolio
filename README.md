@@ -1,6 +1,6 @@
 # Hi there, I'm [Faris fadhlullah]! 👋
 
-![Banner Portofolio](https://via.placeholder.com/1000x300?text=Welcome+to+My+Portfolio)
+![Banner Portofolio](https://tenor.com/iZEt1x5Hq5K.gif)
 
 Selamat datang di repositori kode sumber untuk situs web portofolio pribadi saya. Website ini dirancang untuk menampilkan proyek, keahlian, dan pengalaman profesional saya sebagai Frontend Web Developer
 
